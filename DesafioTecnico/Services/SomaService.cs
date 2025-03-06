@@ -13,7 +13,7 @@ namespace DesafioTecnico.Services
             while (k < indice)
             {
                 k++;
-                soma =+ k;
+                soma += k;
             }
 
             Console.WriteLine($"Valor da soma é: {soma}");
