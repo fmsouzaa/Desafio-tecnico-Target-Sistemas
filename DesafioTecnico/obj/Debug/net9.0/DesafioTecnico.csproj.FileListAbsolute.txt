@@ -1,0 +1,14 @@
+C:\Users\ferrn\source\repos\DesafioTecnico\bin\Debug\net9.0\DesafioTecnico.exe
+C:\Users\ferrn\source\repos\DesafioTecnico\bin\Debug\net9.0\DesafioTecnico.deps.json
+C:\Users\ferrn\source\repos\DesafioTecnico\bin\Debug\net9.0\DesafioTecnico.runtimeconfig.json
+C:\Users\ferrn\source\repos\DesafioTecnico\bin\Debug\net9.0\DesafioTecnico.dll
+C:\Users\ferrn\source\repos\DesafioTecnico\bin\Debug\net9.0\DesafioTecnico.pdb
+C:\Users\ferrn\source\repos\DesafioTecnico\obj\Debug\net9.0\DesafioTecnico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferrn\source\repos\DesafioTecnico\obj\Debug\net9.0\DesafioTecnico.AssemblyInfoInputs.cache
+C:\Users\ferrn\source\repos\DesafioTecnico\obj\Debug\net9.0\DesafioTecnico.AssemblyInfo.cs
+C:\Users\ferrn\source\repos\DesafioTecnico\obj\Debug\net9.0\DesafioTecnico.csproj.CoreCompileInputs.cache
+C:\Users\ferrn\source\repos\DesafioTecnico\obj\Debug\net9.0\DesafioTecnico.dll
+C:\Users\ferrn\source\repos\DesafioTecnico\obj\Debug\net9.0\refint\DesafioTecnico.dll
+C:\Users\ferrn\source\repos\DesafioTecnico\obj\Debug\net9.0\DesafioTecnico.pdb
+C:\Users\ferrn\source\repos\DesafioTecnico\obj\Debug\net9.0\DesafioTecnico.genruntimeconfig.cache
+C:\Users\ferrn\source\repos\DesafioTecnico\obj\Debug\net9.0\ref\DesafioTecnico.dll
